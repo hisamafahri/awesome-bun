@@ -25,3 +25,4 @@ This list is a collection of the best bun resources.
 ### Web Frameworks
 
 - [baojs](https://github.com/mattreid1/baojs) - A fast, minimalist web framework for the Bun JavaScript runtime.
+- [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server.

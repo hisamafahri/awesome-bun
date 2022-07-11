@@ -11,7 +11,8 @@ This list is a collection of the best bun resources.
 - [Docs](#docs)
   - [Official Docs](#official-docs)
 - [Packages](#packages)
-  - [Web Frameworks](#web-frameworks)
+  - [Database](#database)
+  - [Web Framework](#web-framework)
 
 ## Docs
 
@@ -22,7 +23,11 @@ This list is a collection of the best bun resources.
 
 ## Packages
 
-### Web Frameworks
+### Database
+
+- [duckdb](https://github.com/evanwashere/duckdb) - A fast duckdb bindings for bun runtime.
+
+### Web Framework
 
 - [baojs](https://github.com/mattreid1/baojs) - A fast, minimalist web framework for the Bun JavaScript runtime.
 - [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server.

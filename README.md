@@ -31,4 +31,5 @@ This list is a collection of the best bun resources.
 
 - [baojs](https://github.com/mattreid1/baojs) - A fast, minimalist web framework for the Bun JavaScript runtime.
 - [hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+- [kingworld](https://github.com/SaltyAom/kingworld) - Fast, and friendly Bun web framework.
 - [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server.

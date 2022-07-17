@@ -13,6 +13,7 @@ This list is a collection of the best bun resources.
 - [Packages](#packages)
   - [Database](#database)
   - [Web Framework](#web-framework)
+- [Templates](#templates)
 
 ## Docs
 
@@ -33,3 +34,7 @@ This list is a collection of the best bun resources.
 - [hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 - [kingworld](https://github.com/SaltyAom/kingworld) - Fast, and friendly Bun web framework.
 - [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server.
+
+## Templates
+
+- [create-bun](https://github.com/guocaoyi/create-bun) - bun boilerplate, npm starter.

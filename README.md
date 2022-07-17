@@ -11,6 +11,7 @@ This list is a collection of the best bun resources.
 - [Docs](#docs)
   - [Official Docs](#official-docs)
 - [Packages](#packages)
+  - [CI/CD](#ci/cd)
   - [Database](#database)
   - [Web Framework](#web-framework)
 - [Templates](#templates)
@@ -23,6 +24,10 @@ This list is a collection of the best bun resources.
 - [bun API Reference](https://github.com/Jarred-Sumner/bun#Reference)
 
 ## Packages
+
+### CI/CD
+
+- [setup-bun](https://github.com/xHyroM/setup-bun) - Set up your GitHub Actions workflow with a specific version of bun.
 
 ### Database
 

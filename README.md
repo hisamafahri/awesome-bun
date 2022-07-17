@@ -42,5 +42,6 @@ This list is a collection of the best bun resources.
 
 ## Templates
 
+- [bun-on-gitpod](https://github.com/gitpod-io/bun-on-gitpod) - A bun starter template, configured for [Gitpod](www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud.
 - [create-bun](https://github.com/guocaoyi/create-bun) - bun boilerplate, npm starter.
 - [fly-apps/bun](https://github.com/fly-apps/bun) - Containerised bun app doing basically nothing.

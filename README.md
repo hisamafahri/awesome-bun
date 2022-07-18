@@ -31,6 +31,7 @@ This list is a collection of the best bun resources.
 
 ### Database
 
+- [burm](https://github.com/William-McGonagle/burm) - A simple, fast, reliable Object Relationship Manager for Bun.
 - [duckdb](https://github.com/evanwashere/duckdb) - A fast duckdb bindings for bun runtime.
 
 ### Web Framework
